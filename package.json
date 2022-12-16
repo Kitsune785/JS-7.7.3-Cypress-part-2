@@ -1,0 +1,22 @@
+{
+  "name": "js-7.7.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kitsune785/JS-7.7.3-Cypress-part-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kitsune785/JS-7.7.3-Cypress-part-2/issues"
+  },
+  "homepage": "https://github.com/Kitsune785/JS-7.7.3-Cypress-part-2#readme",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  }
+}
